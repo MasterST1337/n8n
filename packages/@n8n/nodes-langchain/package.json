@@ -156,7 +156,7 @@
     "cohere-ai": "6.2.2",
     "d3-dsv": "2.0.0",
     "epub2": "3.0.2",
-    "form-data": "4.0.0",
+    "form-data": "4.0.6",
     "html-to-text": "9.0.5",
     "jest-mock-extended": "^3.0.4",
     "json-schema-to-zod": "2.0.14",
